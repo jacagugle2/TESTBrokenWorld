@@ -76,6 +76,7 @@
   <ItemGroup>
     <Compile Include="Assets\BrokenWord\EnemyFollow.cs" />
     <Compile Include="Assets\BrokenWord\EventManager.cs" />
+    <Compile Include="Assets\BrokenWord\GitTestScript.cs" />
     <Compile Include="Assets\BrokenWord\Move.cs" />
     <Compile Include="Assets\BrokenWord\OvalGravity.cs" />
     <Compile Include="Assets\BrokenWord\StartStopHitCollider.cs" />
