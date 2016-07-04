@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broken World.CSharp.Plugins", "Broken World.CSharp.Plugins.csproj", "{D5354FFF-D9D3-C049-8A31-74EA2A1A2F67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broken World.CSharp", "Broken World.CSharp.csproj", "{82259698-9BC3-8AA3-D359-A729353D0E96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broken World.CSharp.Editor", "Broken World.CSharp.Editor.csproj", "{4DD59D28-224D-A19A-3C9F-07D3CF1E709E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5354FFF-D9D3-C049-8A31-74EA2A1A2F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5354FFF-D9D3-C049-8A31-74EA2A1A2F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5354FFF-D9D3-C049-8A31-74EA2A1A2F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5354FFF-D9D3-C049-8A31-74EA2A1A2F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82259698-9BC3-8AA3-D359-A729353D0E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82259698-9BC3-8AA3-D359-A729353D0E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82259698-9BC3-8AA3-D359-A729353D0E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82259698-9BC3-8AA3-D359-A729353D0E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD59D28-224D-A19A-3C9F-07D3CF1E709E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD59D28-224D-A19A-3C9F-07D3CF1E709E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD59D28-224D-A19A-3C9F-07D3CF1E709E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD59D28-224D-A19A-3C9F-07D3CF1E709E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
